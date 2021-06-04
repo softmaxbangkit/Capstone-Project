@@ -5,3 +5,5 @@ Tech Stack:
 - Kotlin, Android Studio
 - Firebase Firestore & Auth
 - TensorFlow Lite --> Client-Side Deployment on the previous build version.
+
+
