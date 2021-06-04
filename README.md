@@ -3,7 +3,7 @@ Currently, between 2 and 3 million non-melanoma skin cancers and 132,000 melanom
 
 Tech Stack:
 - Kotlin, Android Studio
-- Firebase Firestore & Auth
+- Firebase Firestore & Auth -> Server-Side Deployment on the latest build version.
 - TensorFlow Lite --> Client-Side Deployment on the previous build version.
 
 ![image](https://user-images.githubusercontent.com/56616689/120763740-b8dd7780-c541-11eb-88ae-fb9f439cffe2.png)
