@@ -1,7 +1,17 @@
 # Capstone-Project
 Currently, between 2 and 3 million non-melanoma skin cancers and 132,000 melanoma skin cancers occur globally each year (WHO, 2017). Skin cancer is one type of cancer that can cause death for many people. Because of this, an application is needed to easily detect skin cancer early that the cancer can be handled with more quickly. Besides, consultations with dermatologists have better prognosis (Avilés-Izquierdo et. al., 2016). Due to that, we built an early skin cancer detection application with dermatologist consultation.
 
-Tech Stack:
+Tech Stack:<br /> 
+**Android Developer**<br /> 
+Create user activity (such as login and register)<br /> 
+Create home activity <br /> 
+Implement buttons directs to diagnosis and doctor activity<br /> 
+Create diagnosis activity<br /> 
+Deploy tensorflow lite which made by machine learning<br /> 
+Create intent camera and share to whatsapp<br /> 
+Create doctor activity<br /> 
+Deploy database on firebase for doctor and prediction which made by cloud<br /> 
+
 - Kotlin, Android Studio
 - Firebase Firestore & Auth -> Server-Side Deployment on the latest build version.
 - TensorFlow Lite --> Client-Side Deployment on the previous build version.
@@ -20,4 +30,5 @@ Example result
 ![image](https://user-images.githubusercontent.com/56616689/120764067-0823a800-c542-11eb-8681-32b2f4114ad4.png)
 ![image](https://user-images.githubusercontent.com/56616689/120764136-15d92d80-c542-11eb-9358-61bb524a4a18.png)
 
-
+**Cloud Computing**<br /> 
+- Create database in cloud firestore<br /> 
