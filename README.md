@@ -6,4 +6,16 @@ Tech Stack:
 - Firebase Firestore & Auth
 - TensorFlow Lite --> Client-Side Deployment on the previous build version.
 
+![image](https://user-images.githubusercontent.com/56616689/120763740-b8dd7780-c541-11eb-88ae-fb9f439cffe2.png)
+![image](https://user-images.githubusercontent.com/56616689/120763777-c266df80-c541-11eb-8edd-c9f7c0a44047.png)
+![image](https://user-images.githubusercontent.com/56616689/120763825-cdba0b00-c541-11eb-89b3-d21868f671f7.png)
+![image](https://user-images.githubusercontent.com/56616689/120763877-dad6fa00-c541-11eb-9e12-0f29505b93a9.png)
+![image](https://user-images.githubusercontent.com/56616689/120763924-e75b5280-c541-11eb-96f2-faba48bbcfb0.png)
+![image](https://user-images.githubusercontent.com/56616689/120763637-9ea39980-c541-11eb-82c7-a44566521893.png)
+
+Example result
+![image](https://user-images.githubusercontent.com/56616689/120764015-fb9f4f80-c541-11eb-95e9-041e10f7879c.png)
+![image](https://user-images.githubusercontent.com/56616689/120764067-0823a800-c542-11eb-8681-32b2f4114ad4.png)
+![image](https://user-images.githubusercontent.com/56616689/120764136-15d92d80-c542-11eb-9358-61bb524a4a18.png)
+
 
