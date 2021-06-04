@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "988822237970",
+    "project_id": "skin-detection-380e5",
+    "storage_bucket": "skin-detection-380e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988822237970:android:d46049ecb1a3c5e76cb9cb",
+        "android_client_info": {
+          "package_name": "com.puput.skindetection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "988822237970-5pps9tlqkefj86frgv7iokrqompt5i3p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBigLm6eofL8QhxWgJFlddC5HbMmra6pdE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "988822237970-5pps9tlqkefj86frgv7iokrqompt5i3p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

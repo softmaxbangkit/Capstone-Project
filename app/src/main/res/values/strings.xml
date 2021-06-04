@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">SkinDetection</string>
+    <string name="email">Email</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_in_now_to_see_your_appointments">Sign in now to see your\n appointments.</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="secure_login">Secure Login</string>
+    <string name="don_t_have_an_account_sign_up">Don’t have an account? Sign Up</string>
+    <string name="hello">Hello, </string>
+    <string name="recent">Recent</string>
+    <string name="what_do_you_need">What do you need?</string>
+    <string name="select_that_you_want_to_apply">Select that you want to apply</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="username">Username</string>
+    <string name="have_an_account_sign_in">Have an account? Sign In</string>
+    <string name="secure_sign_up">Secure Sign Up</string>
+    <string name="sign_up_now_to_have_an_account">Sign up now to have an account</string>
+    <string name="skin_diagnosis">Skin Diagnosis</string>
+    <string name="level_skin">Level Skin</string>
+    <string name="treatment">Treatment</string>
+    <string name="description">Description</string>
+    <string name="name_doctor">Name\n Doctor</string>
+    <string name="specialist">Specialist</string>
+    <string name="about_the_doctor">About The Doctor</string>
+    <string name="schedule_an_appointment">Schedule An Appointment</string>
+    <string name="nama_diganosis">nama diganosis</string>
+    <string name="home">Home</string>
+    <string name="profile">Profile</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="predict">Predict</string>
+    <string name="appointment">Only Whatsapp</string>
+    <string name="result">Best Result</string>
+    <string name="find_username">Find Doctor</string>
+    <string name="user_name">Doctor Name</string>
+    <string name="availability">Availability</string>
+    <string name="consultation">Consultation</string>
+    <string name="send_to">Share via, &#8230;</string>
+    <string name="predictive_probability">Predictive Probability</string>
+</resources>
