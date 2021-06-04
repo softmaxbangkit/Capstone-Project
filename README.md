@@ -31,15 +31,32 @@ Example result
 ![image](https://user-images.githubusercontent.com/56616689/120764136-15d92d80-c542-11eb-9358-61bb524a4a18.png)
 
 **Machine Learning Develeoper**<br /> 
+
 Using dataset from https://www.kaggle.com/kmader/skin-cancer-mnist-ham10000 <br /> 
 Preprocessing csv data and split into 7 classes <br /> 
 split train 85% and test 15% <br /> 
-oversampling train data with image augmentation <br /> 
+oversampling train data with image augmentation <br />
+![image](https://github.com/softmaxbangkit/Capstone-Project/blob/eeb05c0bfecc3a418f4d56af4325cc543db84fd6/Machine%20Learning%20Screenshot/Train%20Test%20Split%20Augmentation.jpg)
+
 Using InceptionResNetV2 for Transfer Learning <br /> 
 Rescalling on top of InceptionResNet and add Flatten and Dense at bottom layer <br /> 
-save  model using SavedModel.pb <br /> 
+![image](https://github.com/softmaxbangkit/Capstone-Project/blob/eeb05c0bfecc3a418f4d56af4325cc543db84fd6/Machine%20Learning%20Screenshot/Parameter.jpg)
+
+Training data <br />
+![image](https://github.com/softmaxbangkit/Capstone-Project/blob/eeb05c0bfecc3a418f4d56af4325cc543db84fd6/Machine%20Learning%20Screenshot/Graph%20per%20epoch.jpg)
+
+Predict list <br />
+![image](https://github.com/softmaxbangkit/Capstone-Project/blob/eeb05c0bfecc3a418f4d56af4325cc543db84fd6/Machine%20Learning%20Screenshot/Predict%20List.jpg)
+
+Save  model using SavedModel.pb <br /> 
 convert SavedModel.pb into .tflite <br /> 
 
+Example Result
+
+![image](https://github.com/softmaxbangkit/Capstone-Project/blob/eeb05c0bfecc3a418f4d56af4325cc543db84fd6/Machine%20Learning%20Screenshot/Result%201.jpg)
 
 **Cloud Computing**<br /> 
 - Create database in cloud firestore<br /> 
+![image](https://github.com/softmaxbangkit/Capstone-Project/blob/main/Cloud%20Computing%20Screenshot/Firestore1.jpg)
+![image](https://github.com/softmaxbangkit/Capstone-Project/blob/eeb05c0bfecc3a418f4d56af4325cc543db84fd6/Cloud%20Computing%20Screenshot/Firestore2.jpg)
+![image](https://github.com/softmaxbangkit/Capstone-Project/blob/eeb05c0bfecc3a418f4d56af4325cc543db84fd6/Cloud%20Computing%20Screenshot/Firestore3.jpg)
