@@ -1,4 +1,14 @@
 # Capstone-Project
+Team ID: B21-CAP0146<br />
+Active Member ID and Name:<br />
+ C0020136 - Galih Fajar Fitra Ady C0020136<br />
+ C0101087 - Sulthan Abdul Hafizh Allam C0101087<br />
+ M0101086 - Muhammad Rafii Zain M0101086<br />
+ M0101085 - Hada Melino Muhammad M0101085 <br />
+ A2992701 - Sondari Setia Rahayu A2992701<br />
+ A2992703 - Puput Yuniar Maulida A2992703<br />
+
+**Background:**<br />
 Currently, between 2 and 3 million non-melanoma skin cancers and 132,000 melanoma skin cancers occur globally each year (WHO, 2017). Skin cancer is one type of cancer that can cause death for many people. Because of this, an application is needed to easily detect skin cancer early that the cancer can be handled with more quickly. Besides, consultations with dermatologists have better prognosis (Avilés-Izquierdo et. al., 2016). Due to that, we built an early skin cancer detection application with dermatologist consultation.
 
 Tech Stack:<br />
